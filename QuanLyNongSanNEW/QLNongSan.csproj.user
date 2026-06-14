@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="UI\AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormBanHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormBaoCao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormLoaiHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormNhapHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormThongTinLo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormUserKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
